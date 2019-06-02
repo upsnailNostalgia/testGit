@@ -1,1 +1,4 @@
 eee
+this is e.txt
+now i will edit it!
+add amend!
