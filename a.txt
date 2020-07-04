@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+aaa20200704
+<<<<<<<
+HEAD
 hello edited by zzt time 19/3/29/10:35
 this is a.txt edited by zzt time 19/3/29/10:32
 this is test the commit 1st time!
